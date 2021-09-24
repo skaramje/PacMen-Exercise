@@ -1,5 +1,5 @@
 # PacMen-Exercise
-Creates many Pac Men that bounce randomly around the screen.  [To Preview](https://raw.githack.com/skaramje/PacMen-Exercise/main/index.html)
+Creates many Pac Men that bounce randomly around the screen.  [To preview click here](https://raw.githack.com/skaramje/PacMen-Exercise/main/index.html)
 
 
 ## Installation:
