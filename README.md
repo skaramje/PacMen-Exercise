@@ -12,7 +12,7 @@ This code can be used to generate a factory of bouncing Pac Men
 For any questions, find me on [linkedin](https://www.linkedin.com/in/simrat-karamjeet/)
 
 ## Roadmap:
-Roadmap: The aim is to use this starter code for the development of PacMan game
+The aim is to use this starter code for the development of PacMan game
 
 ## License
 License information: This project is licensed under the [MIT License](https://github.com/skaramje/PacMen-Exercise/blob/main/LICENSE)
