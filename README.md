@@ -15,4 +15,4 @@ For any questions, find me on [linkedin](https://www.linkedin.com/in/simrat-kara
 The aim is to use this starter code for the development of PacMan game
 
 ## License
-License information: This project is licensed under the [MIT License](https://github.com/skaramje/PacMen-Exercise/blob/main/LICENSE)
+This project is licensed under the [MIT License](https://github.com/skaramje/PacMen-Exercise/blob/main/LICENSE)
